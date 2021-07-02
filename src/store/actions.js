@@ -1,0 +1,16 @@
+export const COLLAPSE_MENU = '@able/COLLAPSE_MENU';
+export const COLLAPSE_TOGGLE = '@able/COLLAPSE_TOGGLE';
+export const CHANGE_LAYOUT = '@able/CHANGE_LAYOUT';
+export const CHANGE_SUB_LAYOUT = '@able/CHANGE_SUB_LAYOUT';
+export const LAYOUT_TYPE = '@able/LAYOUT_TYPE';
+export const RESET = '@able/RESET';
+export const NAV_BRAND_COLOR = '@able/NAV_BRAND_COLOR';
+export const HEADER_BACK_COLOR = '@able/HEADER_BACK_COLOR';
+export const RTL_LAYOUT = '@able/RTL_LAYOUT';
+export const NAV_FIXED_LAYOUT = '@able/NAV_FIXED_LAYOUT';
+export const HEADER_FIXED_LAYOUT = '@able/HEADER_FIXED_LAYOUT';
+export const BOX_LAYOUT = '@able/BOX_LAYOUT';
+export const NAV_CONTENT_LEAVE = '@able/NAV_CONTENT_LEAVE';
+export const NAV_COLLAPSE_LEAVE = '@able/NAV_COLLAPSE_LEAVE';
+export const STORE_SESSION='STORE_SESSION';
+export const REMOVE_SESSION='REMOVE_SESSION';
